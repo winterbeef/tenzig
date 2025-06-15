@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"91afc5a70bc77f52","type":"file","file":"Stars/Places/Market Ring.md","x":-260,"y":-550,"width":400,"height":250,"color":"4"},
+		{"id":"fa40ff493512a20b","type":"file","file":"Stars/Places/Refueling Dock Badger 5.md","x":-260,"y":-40,"width":400,"height":160},
+		{"id":"1f03652c1540b2c1","type":"file","file":"Stars/Places/CyanoTech Salvage Station.md","x":-260,"y":260,"width":400,"height":130},
+		{"id":"47b1cb8d0b4b6189","type":"file","file":"Stars/Places/Bells Bazaar.md","x":-840,"y":-510,"width":337,"height":171,"color":"5"},
+		{"id":"5d76f9a7bd6fb2d5","type":"file","file":"Stars/Places/The Shrine to Lora McPhearson.md","x":373,"y":-36,"width":354,"height":153,"color":"1"},
+		{"id":"3dbe156a23a93352","type":"file","file":"Stars/Places/The Launchpad.md","x":320,"y":-632,"width":460,"height":415,"color":"5"}
+	],
+	"edges":[
+		{"id":"0822e23a97e8febd","fromNode":"91afc5a70bc77f52","fromSide":"bottom","toNode":"fa40ff493512a20b","toSide":"top"},
+		{"id":"683c5c335bf86fdb","fromNode":"91afc5a70bc77f52","fromSide":"right","toNode":"3dbe156a23a93352","toSide":"left"},
+		{"id":"abb53c37bfcbaa4e","fromNode":"91afc5a70bc77f52","fromSide":"left","toNode":"47b1cb8d0b4b6189","toSide":"right"},
+		{"id":"6caabf82a2cf59fe","fromNode":"fa40ff493512a20b","fromSide":"bottom","toNode":"1f03652c1540b2c1","toSide":"top"},
+		{"id":"18860e1d9fca8315","fromNode":"3dbe156a23a93352","fromSide":"bottom","toNode":"5d76f9a7bd6fb2d5","toSide":"top"}
+	]
+}

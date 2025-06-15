@@ -1,0 +1,1 @@
+(4 armed goddess, protector of the miners) holding ore, a pick, power drill, and smelting bucket, 
